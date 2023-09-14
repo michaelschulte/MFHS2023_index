@@ -29,7 +29,7 @@
 body {
             margin: 0;
             padding: 0;
-            background-image: linear-gradient(to bottom, #90bdd9, #fb8c56);
+            background-image: linear-gradient(to top, #90bdd9, #fb8c56);
             background-repeat: no-repeat;
             background-size: cover;
             background-attachment: fixed;
