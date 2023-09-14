@@ -3,6 +3,7 @@
 @import url(https://fonts.googleapis.com/icon?family=Material+Icons);
 @import url(https://fonts.googleapis.com/icon?family=Montserrat:100,400);
 
+
 :root {
   font-size: 62.5%;
   body {
@@ -13,7 +14,7 @@
 }
 
 
-#header {
+/*#header {
  background: url("https://raw.githubusercontent.com/therbootcamp/I2R_2020Aug/master/src/img/background_narrow.jpeg");
  background-size: cover;
  color: white;
@@ -23,7 +24,17 @@
  margin-top: -20px;
  font-family: 'Montserrat';
 
-}
+}*/
+
+body {
+            margin: 0;
+            padding: 0;
+            background-image: linear-gradient(to bottom, #90bdd9, #fb8c56);
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-attachment: fixed;
+            font-family: 'Montserrat';
+        }
 
 #header h1 {
  font-weight: 700;
@@ -95,7 +106,7 @@ h2 {
   }
 
 .my-table td {
-  font-weight:100;
+  font-weight:200;
   vertical-align: top;
   padding: 6px 0px 6px 6px;
   border-radius:8px;
@@ -113,7 +124,7 @@ h2 {
 
 .td-special-blue {
   font-weight: 400;
-  background-color:#7FBDF7;
+  background-color:#90bdd9;
   color:#ffffff;
 }
 
@@ -125,7 +136,7 @@ h2 {
 }
 
 .td-red {
-  background-color:#F8716F;
+  background-color:#fb8c56;
   color:#ffffff;
 }
 
