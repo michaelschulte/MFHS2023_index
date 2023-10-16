@@ -14,3 +14,7 @@ fatal: could not read Username for 'https://github.com': Device not configured
 [main 317081c] update
  1 file changed, 3 insertions(+)
 fatal: could not read Username for 'https://github.com': Device not configured
+[main cdf3ccd] update
+ 2 files changed, 3 insertions(+)
+ create mode 100644 .push.sh.swp
+fatal: could not read Username for 'https://github.com': Device not configured
