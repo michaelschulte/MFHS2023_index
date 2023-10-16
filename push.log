@@ -1,0 +1,4 @@
+[main 42edf2a] update
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 push.log
+fatal: could not read Username for 'https://github.com': Device not configured
