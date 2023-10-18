@@ -36,3 +36,8 @@ fatal: could not read Username for 'https://github.com': Device not configured
 [main b14ecc1] update
  1 file changed, 3 insertions(+)
 fatal: could not read Username for 'https://github.com': Device not configured
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+fatal: could not read Username for 'https://github.com': Device not configured
