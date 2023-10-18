@@ -200,3 +200,7 @@ fatal: could not read Username for 'https://github.com': Device not configured
 [main eb2d3f2] update
  1 file changed, 3 insertions(+)
 fatal: could not read Username for 'https://github.com': Device not configured
+[main 10ffd7d] update
+ 2 files changed, 3 insertions(+)
+ create mode 100644 id_rsa.pub
+fatal: could not read Username for 'https://github.com': Device not configured
